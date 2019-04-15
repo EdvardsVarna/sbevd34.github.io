@@ -8,6 +8,12 @@ Grupa: D3-4
     font-family: "Comic Sans MS", sans-serif;
 }
 
+.mainsection {
+    width:2080px;
+    margin: auto;
+    padding: auto;
+}
+
 .leftside {
     width: 786px;
     height: 712px;
