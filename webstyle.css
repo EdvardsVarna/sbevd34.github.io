@@ -7,11 +7,13 @@ Grupa: D3-4
 * {
     font-family: "Comic Sans MS", sans-serif;
 }
+
+
 .mainsection {
     width: 1524px;
     margin: 0px auto;
 }
-
+/* -------------------------------Mainpage------------------------------- */
 .leftside {
     width: 796px;
     height: 715px;
@@ -24,6 +26,8 @@ Grupa: D3-4
     width: 0px;
     float: left;
 }
+
+/* -------------------------------Left section------------------------------- */
 
 .hellotext {
     padding-top: 260px;
@@ -48,6 +52,8 @@ Grupa: D3-4
 .socialmedia {
     margin-right: -15px;
 }
+
+/* -------------------------------Right section------------------------------- */
 
 .Profils {
     width: 734px;
@@ -99,3 +105,24 @@ A:link {
     margin-top: 63px;
 }
 
+/* -------------------------------Profile------------------------------- */
+
+.mainsectionProfils{
+    width: 1540px;
+    margin: 0px auto;
+}
+.leftsideProfils {
+    width: 590px;
+    height: 715px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto 0px;
+}
+
+.rightsideProfils {
+    width: 934px;
+    height: 715px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto 0px;
+}
