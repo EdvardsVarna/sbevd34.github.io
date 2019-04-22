@@ -1,0 +1,321 @@
+/*
+Skices izstrādātājs: Semuels Bensons
+Mājaslapas izstrādātājs: Edvards Vārna
+Grupa: D3-4
+ */
+
+* {
+    font-family: "Comic Sans MS", sans-serif;
+    color: black;
+}
+
+/* -------------------------------Mainpage------------------------------- */
+
+.mainsection {
+    width: 1524px;
+    margin: 0px auto;
+}
+
+.leftside {
+    width: 796px;
+    height: 715px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto -6px;
+}
+
+.rightside {
+    width: 0px;
+    float: left;
+}
+
+/* -------------------------------Left section------------------------------- */
+
+.hellotext {
+    padding-top: 260px;
+    padding-left: 60px;
+    margin-bottom: auto;
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.esmutext {
+    padding-left: 155px;
+    margin-top: auto;
+    text-decoration:underline;
+    font-size: 33px;
+}
+
+.socialmediabuttons {
+    padding-left: 250px;
+    margin-top: 10px;
+}
+
+.socialmedia {
+    margin-right: -15px;
+}
+
+/* -------------------------------Right section------------------------------- */
+
+.Profils {
+    width: 734px;
+    height: 237px;
+    float: left;
+    border: solid 3px #000000;
+}
+
+.Resume {
+    width: 734px;
+    height: 233px;
+    float: left;
+    border: solid 3px #000000;
+}
+
+.Kontakti {
+    width: 734px;
+    height: 233px;
+    float: left;
+    border: solid 3px #000000;
+}
+
+.Maintext {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 85px;
+}
+
+.Sometext {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+A:link {
+    text-decoration: none;
+}
+
+.Square {
+    border-radius: 10px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  70px;
+    height: 70px;
+    position: absolute;
+    margin-left: 205px;
+    margin-top: 63px;
+}
+
+/* -------------------------------Profile------------------------------- */
+
+.mainsectionProfils{
+    width: 1540px;
+    margin: 0px auto;
+}
+.leftsideProfils {
+    width: 590px;
+    height: 715px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto 0px;
+}
+
+.rightsideProfils {
+    width: 934px;
+    height: 715px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto 0px;
+}
+
+.Profileheadingtext {
+    color: black;
+    text-align: left;
+    margin-top: 600px;
+    margin-left: 40px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.line {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 3px;
+    padding-right: 190px;
+    margin-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.ProfileText {
+    text-align: center;
+    font-size: 30px;
+    margin-left: -150px;
+    font-weight: bold;
+}
+
+.ProfileParagraph {
+    text-align: center;
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.ProfileWholeText {
+    margin-left: 190px;
+    margin-top: 30px;
+}
+
+.Screenshot {
+    padding-top: 120px;
+    margin-left: 20px;
+    position: absolute;
+    max-width: 250px;
+}
+
+.lb-caption {
+    color: white;
+}
+
+/* -------------------------------Resume------------------------------- */
+
+.mainsectionResume{
+    width: 1540px;
+    margin: 0px auto;
+}
+.leftsideResume {
+    width: 590px;
+    height: 938px;
+    float: left;
+    border: solid 3px #000000;
+    margin: auto 0px;
+}
+
+.rightsideResume {
+    width: 923px;
+    height: 715px;
+    float: left;
+    margin: auto 0px;
+}
+
+.Resumeheadingtext {
+    color: black;
+    text-align: left;
+    margin-top: 400px;
+    margin-left: 40px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.lineResume {
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 3px;
+    padding-right: 230px;
+    margin-left: 40px;
+    border-bottom: 2px solid black;
+}
+
+.Resumerighttexttop {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 290px;
+    margin-top: 70px;
+}
+.Resumeblocktop {
+    width: 922px;
+    height: 233px;
+    float: left;
+    margin-left: -3px;
+    padding-bottom: 235px;
+    border: solid 2px #000000;
+}
+.Sarakststop {
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 25px;
+}
+
+.SarakstsRezume {
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 340px;
+    padding-bottom: 5px;
+    border: 2px solid black;
+}
+
+.Circle1 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 50px;
+}
+.Circle2 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 94px;
+}
+.Circle3 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 138px;
+}
+
+.Resumeblockmiddle {
+    width: 922px;
+    height: 233px;
+    float: left;
+    margin-left: -3px;
+    padding-bottom: 235px;
+    border: solid 2px #000000;
+}
+
+.Circle4 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 620px;
+    margin-top: 50px;
+}
+.Circle5 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 620px;
+    margin-top: 94px;
+}
+.Circle6 {
+    border-radius: 50px;
+    border: 2px solid black;
+    padding: 10px;
+    width:  10px;
+    height: 10px;
+    position: absolute;
+    margin-left: 620px;
+    margin-top: 138px;
+}
