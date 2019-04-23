@@ -183,7 +183,7 @@ Grupa: D3-4
 
     .leftsideResume {
         width: 590px;
-        height: 938px;
+        height: 1437px;
         float: left;
         border: solid 3px #000000;
         margin: auto 0px;
@@ -255,30 +255,8 @@ Grupa: D3-4
         width: 10px;
         height: 10px;
         position: absolute;
-        margin-left: 35px;
-        margin-top: 50px;
-    }
-
-    .Circle2 {
-        border-radius: 50px;
-        border: 2px solid black;
-        padding: 10px;
-        width: 10px;
-        height: 10px;
-        position: absolute;
-        margin-left: 35px;
-        margin-top: 94px;
-    }
-
-    .Circle3 {
-        border-radius: 50px;
-        border: 2px solid black;
-        padding: 10px;
-        width: 10px;
-        height: 10px;
-        position: absolute;
-        margin-left: 35px;
-        margin-top: 138px;
+        margin-left: -65px;
+        margin-top: -28px;
     }
 
     .Resumeblockmiddle {
@@ -290,37 +268,83 @@ Grupa: D3-4
         border: solid 2px #000000;
     }
 
-    .Circle4 {
+    .Circle2 {
         border-radius: 50px;
         border: 2px solid black;
         padding: 10px;
         width: 10px;
         height: 10px;
         position: absolute;
-        margin-left: 620px;
+        margin-left: 520px;
+        margin-top: -28px;
+    }
+
+    .Resumeblockbottom {
+        text-align: center;
+        width: 922px;
+        height: 260px;
+        float: left;
+        margin-left: -3px;
+        padding-bottom: 235px;
+        border: solid 2px #000000;
+    }
+
+    .Circle7 {
+        border-radius: 100px;
+        border: 2px solid black;
+        padding: 20px;
         margin-top: 50px;
+        margin-right: 100px;
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        position: relative;
+        text-align: center;
     }
 
-    .Circle5 {
-        border-radius: 50px;
+    .Circle8 {
+        border-radius: 100px;
         border: 2px solid black;
-        padding: 10px;
-        width: 10px;
-        height: 10px;
-        position: absolute;
-        margin-left: 620px;
-        margin-top: 94px;
+        padding: 20px;
+        margin-top: 20px;
+        margin-right: 100px;
+        width: 100px;
+        height: 100px;
+        display: inline-block;
+        position: relative;
+        text-align: center;
     }
 
-    .Circle6 {
-        border-radius: 50px;
-        border: 2px solid black;
+    .Resumerighttexttopbottom {
+        font-weight: bold;
+        text-align: center;
+        font-size: 30px;
+        margin-right: 100px;
+        margin-top: 30px;
+    }
+
+    .Circleinside {
+        text-align: center;
+        border-radius: 100px;
         padding: 10px;
-        width: 10px;
-        height: 10px;
+        border: 2px solid black;
+        width: 100px;
+        height: 100px;
+        right: 7px;
+        bottom: 7px;
         position: absolute;
-        margin-left: 620px;
-        margin-top: 138px;
+    }
+
+    .CircleText {
+        margin-top: 35px;
+    }
+
+    .CircleBottomText {
+        position: inherit;
+        display: inline-block;
+        padding-top: 130px;
+        font-weight: bold;
+        font-size: 25px;
     }
 }
 
