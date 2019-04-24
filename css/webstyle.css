@@ -435,12 +435,11 @@ Grupa: D3-4
     }
 
     .KontaktiSquareText {
-        position: revert;
         display: inline-block;
-        margin-top: 100px;
-        margin-left: -5px;
-        width: 85px;
-        font-weight: bold;
+        margin-top: 90px;
+        margin-left: -55px;
+        width: 150px;
+        font-size: 23px;
     }
 
     .Squares2ndRow {
