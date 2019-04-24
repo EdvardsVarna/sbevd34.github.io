@@ -377,6 +377,7 @@ Grupa: D3-4
     .LineForWriting {
         margin-top: 10px;
         border: solid 3px black;
+        font-size: 16px;
         height: 30px;
         width: 830px;
     }
