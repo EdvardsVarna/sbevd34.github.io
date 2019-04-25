@@ -480,26 +480,31 @@ Grupa: D3-4
     /* -------------------------------Left section------------------------------- */
     .hellotext {
         padding-top: 260px;
-        padding-left: 200px;
+        padding-left: 130px;
         margin-bottom: auto;
-        font-size: 45px;
+        font-size: 55px;
         font-weight: bold;
     }
 
     .esmutext {
-        padding-left: 275px;
+        padding-left: 200px;
         margin-top: auto;
         text-decoration: underline;
-        font-size: 33px;
+        font-size: 45px;
     }
 
     .socialmediabuttons {
-        padding-left: 400px;
+        padding-left: 330px;
         margin-top: 10px;
     }
 
     .socialmedia {
         margin-right: -15px;
+    }
+
+    .Logo {
+        width: 120px;
+        height: 120px;
     }
 
     /* -------------------------------Right section------------------------------- */
@@ -529,13 +534,13 @@ Grupa: D3-4
 
     .Maintext {
         text-align: center;
-        font-size: 30px;
-        margin-top: 85px;
+        font-size: 50px;
+        margin-top: 75px;
     }
 
     .Sometext {
         text-align: center;
-        font-size: 20px;
+        font-size: 30px;
         margin-top: 5px;
     }
 
@@ -547,10 +552,10 @@ Grupa: D3-4
         border-radius: 10px;
         border: 2px solid black;
         padding: 10px;
-        width: 70px;
-        height: 70px;
+        width: 100px;
+        height: 100px;
         position: absolute;
         margin-left: 205px;
-        margin-top: 63px;
+        margin-top: 50px;
     }
 }
