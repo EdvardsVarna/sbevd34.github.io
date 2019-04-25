@@ -484,6 +484,7 @@ Grupa: D3-4
         margin-bottom: auto;
         font-size: 55px;
         font-weight: bold;
+        font-family: "Comic Sans MS", sans-serif;
     }
 
     .esmutext {
@@ -491,6 +492,7 @@ Grupa: D3-4
         margin-top: auto;
         text-decoration: underline;
         font-size: 45px;
+        font-family: "Comic Sans MS", sans-serif;
     }
 
     .socialmediabuttons {
@@ -536,12 +538,14 @@ Grupa: D3-4
         text-align: center;
         font-size: 50px;
         margin-top: 75px;
+        font-family: "Comic Sans MS", sans-serif;
     }
 
     .Sometext {
         text-align: center;
         font-size: 30px;
         margin-top: 5px;
+        font-family: "Comic Sans MS", sans-serif;
     }
 
     A:link {
