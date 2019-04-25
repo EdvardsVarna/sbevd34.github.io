@@ -462,11 +462,11 @@ Grupa: D3-4
     /* -------------------------------Mainpage------------------------------- */
     .mainsection {
         width: 108px;
-        margin: 0px auto;
+        margin: 0px 100px;
     }
 
     .leftside {
-        width: 796px;
+        width: 1080px;
         height: 715px;
         float: left;
         border: solid 3px #000000;
@@ -480,21 +480,21 @@ Grupa: D3-4
     /* -------------------------------Left section------------------------------- */
     .hellotext {
         padding-top: 260px;
-        padding-left: 60px;
+        padding-left: 200px;
         margin-bottom: auto;
         font-size: 45px;
         font-weight: bold;
     }
 
     .esmutext {
-        padding-left: 155px;
+        padding-left: 275px;
         margin-top: auto;
         text-decoration: underline;
         font-size: 33px;
     }
 
     .socialmediabuttons {
-        padding-left: 250px;
+        padding-left: 400px;
         margin-top: 10px;
     }
 
@@ -504,23 +504,26 @@ Grupa: D3-4
 
     /* -------------------------------Right section------------------------------- */
     .Profils {
-        width: 734px;
+        width: 1080px;
         height: 237px;
         float: left;
+        margin-left: -100px;
         border: solid 3px #000000;
     }
 
     .Resume {
-        width: 734px;
+        width: 1080px;
         height: 233px;
         float: left;
+        margin-left: -100px;
         border: solid 3px #000000;
     }
 
     .Kontakti {
-        width: 734px;
+        width: 1080px;
         height: 233px;
         float: left;
+        margin-left: -100px;
         border: solid 3px #000000;
     }
 
